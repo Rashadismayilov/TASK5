@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Main{
+    background-image: url(https://freshcart.codescandy.com/assets/images/slider/slider-2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 15rem 0px;
+}
+.Main h6{
+    background-color: RGBA(255,193,7,var(--bs-bg-opacity,1))!important;
+    color: #000!important;
+    border-radius: 10px;
+    width: 14%;
+    padding: 5px 5px;
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 60px;
+}
+.Main h1{
+    font-weight: bold;
+    font-size: 45px;
+    margin-left: 60px;
+    
+}
+.Main p{
+    font-size: 20px;
+    margin-left: 60px;
+}
+.Main button{
+    margin-left: 60px;
+}
+.card-boxes{
+    display: flex;
+    justify-content: space-between;
+}
+.left-image{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner.png);
+    background-position: center;
+    background-size: cover;
+    padding: 5rem 5rem;
+
+}
+.right-image{
+    background-image: url(https://freshcart.codescandy.com/assets/images/banner/grocery-banner-2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 5rem 5rem;
+}
+.{
+    display: flex;
+    justify-content: space-between;
+}
